@@ -28,7 +28,7 @@
 <a href="https://instagram.com/sithum_v29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithum_v29" height="30" width="40" /></a>
 <a href="https://www.behance.net/sithumvihanga5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sithumvihanga5" height="30" width="40" /></a>
 <a href="https://medium.com/@sithumv0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sithumv0229" height="30" width="40" /></a>
-<a href="UCeltq58Shx5YxqDuXPk2zLw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unboxbatz29" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCeltq58Shx5YxqDuXPk2zLw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unboxbatz29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
