@@ -10,11 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumvflash&label=Profile%20views&color=0e75b6&style=flat" alt="sithumvflash" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript, Tailwind CSS, ReactJs, Unity plugin development and C#**
+- 🌱 I’m currently learning **JavaScript, Data Analysis, ReactJs, Unity AR development, AR foundation, and C#**
 
 - 📝 I regularly write articles on [https://medium.com/@sithumv0229](https://medium.com/@sithumv0229)
 
-- 💬 Ask me about **Python, C#, HTML, CSS, Bootstrap, Unity game engine**
+- 💬 Ask me about **Python, JS, React, C#, HTML, CSS, Bootstrap, Unity game engine**
 
 - 📫 How to reach me **sithumv0229@gmail.com**
 
