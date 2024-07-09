@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sithumv0229](https://medium.com/@sithumv0229)
 
-- 💬 Ask me about **Python, JS, React, C#, HTML, CSS, Bootstrap, Unity game engine**
+- 💬 Ask me about **Python, JS, React, UI-UX, C#, HTML, CSS, Bootstrap, Unity game engine**
 
 - 📫 How to reach me **sithumv0229@gmail.com**
 
